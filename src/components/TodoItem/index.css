@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.main {
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+}
+.wid {
+  width: 70%;
+  text-align: center;
+}
+.color {
+  width: 120px;
+  height: 40px;
+  border: 2px solid #ff0b37;
+  color: #ff0b37;
+  border-radius: 9px;
+  background-color: white;
+  font-weight: 500;
+  font-size: 19px;
+  margin-top: 25px;
+  cursor: pointer;
+}
